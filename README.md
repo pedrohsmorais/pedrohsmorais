@@ -15,8 +15,6 @@
   - 📚 Graduando em Ciências & Tecnologia na UFRN
 </div>
 <div style="display: inline_block">
-  <br>
- - ⏳ Desenvolvedor de software em desenvolvimento
 </div>
 <br>
 <div align="center">
