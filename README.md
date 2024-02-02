@@ -8,7 +8,7 @@
  </div>
  <div style="display: inline_block">
   <br>
-  - 🤔 Atualmento Estudo:  
+  - 🤔 Atualmente Estudo:  
   <img align="center" alt="PHM-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 <div style="display: inline_block">
